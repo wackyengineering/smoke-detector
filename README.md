@@ -1,4 +1,4 @@
 # smoke-detector
-This repository contains the Ardunio code for our smoke detector project
+This repository contains the Ardunio code for our smoke detector project.
 
 YouTube: 
