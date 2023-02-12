@@ -1,5 +1,5 @@
 # Smoked Detector Project
-This repository contains the Ardunio code and wiring schematic for our smoke detector project.
+This repository contains the Ardunio code, 3D models, and wiring schematic for our smoke detector project.
 
 **YouTube:** Text 
 
