@@ -1,5 +1,9 @@
 # Smoked Detector Project
-This repository contains the Ardunio code, 3D models, and wiring schematic for our smoke detector project.
+This repository contains the Ardunio code, 3D models, wiring schematic, and component list for our smoke detector project.
+
+
+Looking for a smoke detector that does more than just beep? Look no further than our DIY Arduino-powered smoke detector! This smoke detector cuts power to the outlet it's connected to, minimizing the risk of electrical fires. In future updates, we plan on adding an alarm and possibly look at how it could send a notification to your mobile device to notify you when there's smoke. The video below will give you a tour of the finished product and show a demo of the device working. 
+
 
 **YouTube:** Text 
 
