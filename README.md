@@ -24,3 +24,6 @@ Field Box: [Amazon Link](https://amzn.to/3IfM40b)</br>
 AC-DC 220/120V to 9V Power Supply: [Amazon Link](https://amzn.to/3HYe8Fb)</br>
 Male DC Wire Pigtails: [Amazon Link](https://amzn.to/3jL6IwZ)</br>
 USB 2.0 A-Male to B-Male Cord: [Amazon Link](https://amzn.to/3XptMyW)</br>
+
+**Note:**</br>
+Please note that while our DIY Arduino-powered smoke detector is designed to cut power to the outlet when it detects smoke, we do not guarantee that it will prevent or stop fires. Building and using the device is at your own risk, and we are not liable for any damage, injury, or loss resulting from its use. Please exercise caution and follow all safety protocols when building and using this device.
