@@ -12,7 +12,7 @@ Full disclosure time! We're a part of the Amazon Associates program, which means
 
 **Components:**</br>
 ELEGOO UNO R3 Board: [Amazon Link](https://amzn.to/3Yrktj8)</br>
-DV 5V 1 Channel Relay Module Board: [Amazon Link](https://amzn.to/3jSvR8Q)</br>
+DC 5V 1 Channel Relay Module Board: [Amazon Link](https://amzn.to/3jSvR8Q)</br>
 Smoke Detector Board Module: [Amazon Link](https://amzn.to/3S8S3Zf)</br>
 Screw Terminal Block Shield Module: [Amazon Link](https://amzn.to/3HUIisL)</br>
 15 Amp, 125 Volt Single Receptacle: [Amazon Link](https://amzn.to/3HWzlz0)</br>
